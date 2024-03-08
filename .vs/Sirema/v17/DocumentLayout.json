@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|d:\\diploma iii\\kuliah\\praktikum pbo\\ilham munawar_ti 2b_220102037\\sirema\\sirema\\antarmuka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\model\\jurusancls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\model\\jurusancls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\konfigurasi\\konfigurasicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\konfigurasi\\konfigurasicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|d:\\diploma iii\\kuliah\\praktikum pbo\\ilham munawar_ti 2b_220102037\\sirema\\sirema\\antarmuka\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\konfigurasi\\koneksicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\konfigurasi\\koneksicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\antarmuka\\prodi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\antarmuka\\prodi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\model\\prodicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\model\\prodicls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\sirema\\model\\logincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CC44C-5044-49C4-897F-06A7B1694355}|Sirema\\Sirema.csproj|solutionrelative:sirema\\model\\logincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Form1.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Form1.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Form1.cs [Design]",
+              "RelativeToolTip": "Sirema\\antarmuka\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:40:11.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JurusanCls.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\JurusanCls.cs",
+              "RelativeDocumentMoniker": "Sirema\\model\\JurusanCls.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\JurusanCls.cs",
+              "RelativeToolTip": "Sirema\\model\\JurusanCls.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:28:56.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Form1.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Form1.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Form1.cs",
+              "RelativeToolTip": "Sirema\\antarmuka\\Form1.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAA3wBUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:20:10.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdiCls.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\ProdiCls.cs",
+              "RelativeDocumentMoniker": "Sirema\\model\\ProdiCls.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\ProdiCls.cs",
+              "RelativeToolTip": "Sirema\\model\\ProdiCls.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:27:13.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginCLs.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\LoginCLs.cs",
+              "RelativeDocumentMoniker": "Sirema\\model\\LoginCLs.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\model\\LoginCLs.cs",
+              "RelativeToolTip": "Sirema\\model\\LoginCLs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:23:52.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prodi.Designer.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.Designer.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Prodi.Designer.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.Designer.cs",
+              "RelativeToolTip": "Sirema\\antarmuka\\Prodi.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:00:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodi.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Prodi.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.cs [Design]",
+              "RelativeToolTip": "Sirema\\antarmuka\\Prodi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:59:04.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KoneksiCls.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\konfigurasi\\KoneksiCls.cs",
+              "RelativeDocumentMoniker": "Sirema\\konfigurasi\\KoneksiCls.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\konfigurasi\\KoneksiCls.cs",
+              "RelativeToolTip": "Sirema\\konfigurasi\\KoneksiCls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:24:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Dashboard.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Dashboard.cs",
+              "RelativeToolTip": "Sirema\\antarmuka\\Dashboard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:45:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KonfigurasiCls.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\konfigurasi\\KonfigurasiCls.cs",
+              "RelativeDocumentMoniker": "Sirema\\konfigurasi\\KonfigurasiCls.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\konfigurasi\\KonfigurasiCls.cs",
+              "RelativeToolTip": "Sirema\\konfigurasi\\KonfigurasiCls.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T02:34:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prodi.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Prodi.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Prodi.cs",
+              "RelativeToolTip": "Sirema\\antarmuka\\Prodi.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAwwKsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:03:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Login.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Login.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Login.cs [Design]",
+              "RelativeToolTip": "Sirema\\antarmuka\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:17:53.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Login.cs",
+              "RelativeDocumentMoniker": "Sirema\\antarmuka\\Login.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\antarmuka\\Login.cs",
+              "RelativeToolTip": "Sirema\\antarmuka\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:28:43.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\Program.cs",
+              "RelativeDocumentMoniker": "Sirema\\Program.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\Sirema\\Sirema\\Program.cs",
+              "RelativeToolTip": "Sirema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:11:17.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
